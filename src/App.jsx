@@ -9,6 +9,7 @@ function App() {
 <div>
   {/* Registration form */}
   <Registration />
+  <Contact />
 </div>
   )
 }
